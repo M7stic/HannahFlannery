@@ -1,14 +1,5 @@
----
-title: "The Brutal Budget Calculator"
-permalink: /calculator/
----
+**The Calculator: Based on VicScreen's Official Pro-Forma**
 
-## How much of the grant do you *actually* get to keep?
+I took VicScreen's budget spreadsheet and turned it into a simple, interactive tool that reveals the hidden truths. I have pre-populated it with real wage data and automatically
+calculate the traps like GST.
 
-The VPF's $200,000 is GST-inclusive. This means a chunk of it isn't yours—it has to be paid directly to the ATO.
-
-**Click the link below to make a copy of the Google Sheet. This is your interactive calculator:**
-
-[**👉 Open the Brutal Budget Calculator**](https://docs.google.com/spreadsheets/d/your-link-here/edit?usp=sharing)
-
-> **How to use it:** Click the link, then go to `File > Make a copy`. This will save an editable version to your own Google Drive.
