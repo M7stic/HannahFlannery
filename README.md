@@ -1,12 +1,12 @@
-**The VPF Grant: A Critical Toolkit**
+# **The VPF Grant: A Critical Toolkit**
 
 This practice based research project investigates the sustainability of the Victorian Production Fund (VPF) for games. Drawing on cultural policy analysis, industry wage reports, and anonymous survey data from local developers, this site offers a critical and practical deconstruction of the grant application process.
 
-**Research Question:** 
+## **Research Question:** 
 
 Can a short term production grant like the VPF foster long-term, sustainable careers for Victorian game developers, or does it prolong a cycle of precarity and a "funding cliff"?
 
-**Features:**
+## **Features:**
   
 **The Interactive Budget Simulator:** A tool that models the true financial outcome of a VPF grant, factoring in hidden costs and sustainability.
 
@@ -17,13 +17,13 @@ Can a short term production grant like the VPF foster long-term, sustainable car
 **The Data:**
 Summary of findings from our survey of 70+ Melbourne Game Studios.
 
-  **Key Sources & Influences:**
+## **Key Sources & Influences:**
   Keogh, Brendan. (GCAP Talk - Title?) [Link] - On precarity in game dev.
   VicScreen. VPF Games Guidelines & Terms of Trade.
   Copp, G. (2020). *Games Action Plan 2020-2024.* (Your provided PDF)
   IGEA & Game Workers Australia Wage Surveys.
 
-**Navigate the Grant:**
+## **Navigate the Grant:**
 *   [**The Brutal Budget Calculator**](/calculator/): See how much cash you *really* get after GST and if it's a livable wage.
 *   [**The Plain-English Guide**](/guide/): Learn the rules, traps, and how to strengthen your application.
 *   [**Share Your Experience**](/survey/): Take my anonymous survey to help other developers.
