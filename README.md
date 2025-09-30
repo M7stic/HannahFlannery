@@ -1,9 +1,27 @@
-# The VPF Grant: The Real Deal
-### Does the grant build a career, or just fund a prototype?
+**The VPF Grant: A Critical Toolkit**
 
-Let's be real. The Victorian Production Fund (VPF) grant looks like a golden ticket. But what happens after the money runs out? Many developers face a "funding cliff" – the grant ends, but the game isn't finished, leaving them in a worse spot than before.
+This practice based research project investigates the sustainability of the Victorian Production Fund (VPF) for games. Drawing on cultural policy analysis, industry wage reports, and anonymous survey data from local developers, this site offers a critical and practical deconstruction of the grant application process.
 
-This site is a free, independent toolkit built to help you see the whole picture. I've torn apart the application, crunched the numbers, and spoken to developers to give you a no-BS guide to the VPF.
+**Research Question:** 
+
+Can a short term production grant like the VPF foster long-term, sustainable careers for Victorian game developers, or does it prolong a cycle of precarity and a "funding cliff"?
+
+**Features:**
+  
+**The Interactive Budget Simulator:** A tool that models the true financial outcome of a VPF grant, factoring in hidden costs and sustainability.
+
+**A Critical Guide to the VPF:** A deconstruction of the guidelines, terms, and the unstated expectations.
+
+**Developer Testimonials:** Anonymous, firsthand accounts of the application experience.
+
+**The Data:**
+Summary of findings from our survey of 70+ Melbourne Game Studios.
+
+  **Key Sources & Influences:**
+  Keogh, Brendan. (GCAP Talk - Title?) [Link] - On precarity in game dev.
+  VicScreen. VPF Games Guidelines & Terms of Trade.
+  Copp, G. (2020). *Games Action Plan 2020-2024.* (Your provided PDF)
+  IGEA & Game Workers Australia Wage Surveys.
 
 **Navigate the Grant:**
 *   [**The Brutal Budget Calculator**](/calculator/): See how much cash you *really* get after GST and if it's a livable wage.
