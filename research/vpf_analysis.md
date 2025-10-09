@@ -24,6 +24,6 @@ The VPF guidelines reveal fundamental tensions between short-term project fundin
 For the VPF to truly fulfil its mission to "support the growth of Victoria's screen industry" (Guidelines, p. 1), it must evolve beyond prototype funding. Potential improvements include adopting Quebec's matched-funding requirements, implementing UK-style follow-on funding, or establishing commercial mentorship programs. By augmenting its existing strengths with practical pathways to commercial viability, the VPF could transform from a project incubator into a genuine career accelerator for Victorian developers.
 
 
-[Go Back](research_&_article_summaries.md)
+[Go Back](research.md)
 
 [Go Home](README.md)
