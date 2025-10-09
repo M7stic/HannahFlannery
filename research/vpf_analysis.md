@@ -22,8 +22,3 @@ This critique gains weight when comparing the VPF to international models. Quebe
 The VPF guidelines reveal fundamental tensions between short-term project funding and long-term industry sustainability. While effectively supporting prototype development through staged funding (p. 9) and promoting important diversity initiatives (p. 16), the program's structural limitations undermine its potential impact.
 
 For the VPF to truly fulfil its mission to "support the growth of Victoria's screen industry" (Guidelines, p. 1), it must evolve beyond prototype funding. Potential improvements include adopting Quebec's matched-funding requirements, implementing UK-style follow-on funding, or establishing commercial mentorship programs. By augmenting its existing strengths with practical pathways to commercial viability, the VPF could transform from a project incubator into a genuine career accelerator for Victorian developers.
-
-
-[Go Back](HannFlannery/research.md)
-
-[Go Home](HannahFlannery/README.md)
