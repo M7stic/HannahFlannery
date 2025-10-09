@@ -24,9 +24,10 @@ Summary of findings from our survey of 70+ Melbourne Game Studios.
   IGEA & Game Workers Australia Wage Surveys.
 
 ## **Navigate the Grant:**
-*   [**The Brutal Budget Calculator**](/calculator/): See how much cash you *really* get after GST and if it's a livable wage.
-*   [**The Plain-English Guide**](/guide/): Learn the rules, traps, and how to strengthen your application.
-*   [**Share Your Experience**](/survey/): Take my anonymous survey to help other developers.
-*   [**Tales from the Trenches**](/tales/): Read anonymous stories from those who've been through it.
+*   [**The Brutal Budget Calculator**](/calculator.md/): See how much cash you *really* get after GST and if it's a livable wage.
+*   [**The Plain-English Guide**](/guide.md/): Learn the rules, traps, and how to strengthen your application.
+*   [**Share Your Experience**](/survey.md/): Take my anonymous survey to help other developers.
+*   [**Tales from the Trenches**](/tales.md/): Read anonymous stories from those who've been through it.
+*   [**My Research That Created This Git**](/research.md/): Read through all my essay analysis' on different articles and game studies.
 
 > **Disclaimer:** This is a student project for research and educational purposes. This is not official financial or legal advice. Always consult the [official VicScreen guidelines](https://www.vicscreen.vic.gov.au/) and seek professional advice for your situation.
