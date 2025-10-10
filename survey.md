@@ -35,4 +35,47 @@ This one suprised me. The most common funding across sources were:
   - "It was a great experuence and the people were opn to calls/discussions"
   - "VicScreen are very kind and supportive"
   - "The process is very structured and the criteria for assessment is clearly articulated"
-  - "The process is very structured and the cri"
+  - "The documents they ask you to produce are beneficial to other aspects of development"
+ 
+  - **The Challenges:**
+  - "Very competitive, a lot of time and work must be spent on application materials"
+  - "Time consuming, difficult filling out all the documents"
+  - "It can be difficult to anticipate what the hierarchy is in terms of how the documentation is assessed"
+ 
+    One developer made a really goodpoint about budgets: "It's important to keep in mind that a budget is a hypothesis. You can't anticipate all costs because tings change in production"
+
+    ### Budget Confidence is All Over the Place
+
+    This was probably the most suprising finding. When I asked developers to rate their confidence in creating realistic grant budgets on a scale of 1-10, the answers ranged from 2 to 10.
+
+    We had one person at 2/10 confidence, another at 4/10, then a cluster around 6-8/10, and one very confident 10/10. This tells me that budgeting skills are really uneven across the industtry, even experienced game dev's aren't always sure they're doing it right.
+
+    ### What Developers Actually Want
+
+    When I asked "What would the perfect fudning resource be if you could make one up", the answers were really interesting:
+
+    - "Realistic budget exmaples & resources (most creatives have no experience on budgets)"
+    - "A template and example"
+    - "Automatic budgets for team size and amount."
+    - "Feedback - getting someone to look over it before submission"
+    - "More transparency around why applications are rejected"
+   
+    This is exactly why I built the tools on this site. Developers don't need more vague advice, they need concrete, practitcal help with the stuff that's actually hard.
+
+    ## What This All Means
+
+    Reading though these responses, a few things become really clear:
+
+    1. **The VPF application process us a massive time investment** that takes developers away from actual game development
+    2. **Budgeting is a major pain point** for a lot of developers, regardless of experience level
+    3. **The funding rarely lasts long enough** to actually finish games properly.
+    4. **Developers want practical tools, not just advice**, they need templates, examples, and concrete help
+   
+       As one developer wisely noted:
+       "Use something like the VPF application as a mechanism to teach yourself and price things out like accounting, lawyers, insurance ect."
+
+       That's the spririt behind this whole project, turning the painful parts of the application process into learning opportunities that actually make you a better developer.
+
+       ---
+
+       *Return to [Homepage](/README.md) | [Check the Budget Calculator](/calculator.md)*
