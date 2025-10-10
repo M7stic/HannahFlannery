@@ -4,7 +4,7 @@ plugins:
   - jekyll-remote-theme
 
 title: "The VPF Grant: The Real Deal"
-description: "A toolkit for Victorian game devs navigating the VPF grant. Features a brutal budget calculator."
+description: "A toolkit for Victorian game devs navigating the VPF grant."
 show_downloads: false
 
 github:
