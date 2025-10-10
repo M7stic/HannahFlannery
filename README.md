@@ -17,12 +17,6 @@ Can a short term production grant like the VPF foster long-term, sustainable car
 **The Data:**
 Summary of findings from our survey of 70+ Melbourne Game Studios.
 
-## **Key Sources & Influences:**
-  Keogh, Brendan. (GCAP Talk - Title?) [Link] - On precarity in game dev.
-  VicScreen. VPF Games Guidelines & Terms of Trade.
-  Copp, G. (2020). *Games Action Plan 2020-2024.* (Your provided PDF)
-  IGEA & Game Workers Australia Wage Surveys.
-
 ## **Navigate the Grant:**
 *   [**The Brutal Budget Calculator**](/calculator.md/): See how much cash you *really* get after GST and if it's a livable wage.
 *   [**The Plain-English Guide**](/guide.md/): Learn the rules, traps, and how to strengthen your application.
