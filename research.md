@@ -16,7 +16,7 @@ My analysis reveals how the VPF's structural design actively undermines its goal
 **Source:** `Wu, M. (2017). *Case study the indie game industry and help indie developers achieve their success in digital marketing* (Publication No. 10685688) [Master's dissertation, Northeastern University]. ProQuest Dissertations & Theses Global.`
 
 **My Summary:**
-Wu's research exposes the massive hidden labor burden that the VPF completely ignores. Successful indie development requires three layers of unpaid work: community building in early stages, relentless marketing in middle stages, and intensive networking in late stages. Case studies like *Keep Talking and Nobody Explodes* show how crucial early-stage collaboration is, while *Exploding Kittens* demonstrates the 24/7 community management needed for crowdfunding success. Yet none of this essential work is fundable through the VPF, which only covers direct production costs.
+Wu's research exposes the hidden labor burden that the VPF ignores. Successful indie development requires three layers of unpaid work; community building in early stages, relentless marketing in middle stages, and intensive networking in late stages. Case studies like *Keep Talking and Nobody Explodes* show how crucial early stage collaboration is, while *Exploding Kittens* demonstrates the 24/7 community management needed for crowdfunding success. Yet none of this essential work is fundable through the VPF, which only covers direct production costs.
 
 [Read the full analysis here](research/wu_analysis.md)
 
