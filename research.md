@@ -29,6 +29,14 @@ The City of Port Phillip's plan reveals how local government fundamentally misun
 
 [Read the full analysis here](research/port_phillip_analysis.md)
 
+## 🔍 Extended Analysis: The VPF's Structural Challenges
+
+**Sources:** `IGEA 2023 Industry Census, Screen Australia 2023 Follow-up Study, Game Workers Australia Industry Report 2023`
+
+**My Summary:**
+Victoria's international success stories like *Hollow Knight* and *Untitled Goose Game* hide systemic issues. My deeper analysis reveals that VPF grants cover just 41% of the average game's development cycle, creating a "valley of death" between prototype and release. The data shows only 38% of VPF-funded projects achieve commercial release, with just 22% generating enough revenue to fund subsequent projects. International models like Canada's CMF program and Western Australia's follow-up grants demonstrate better approaches that could transform the VPF from a prototyping subsidy into a genuine career accelerator.
+
+[Read the full extended analysis here](research/structural-analysis.md)
 ## Connecting the Research
 
 These three sources collectively explain the VPF's failure to create sustainable careers. The guidelines themselves create structural problems, the research shows success requires unfunded labor, and local policy acknowledges issues without offering real solutions. This is why practical tools like the Brutal Budget Calculator are essential - they help developers survive the gaps that institutional support systems leave unaddressed.
