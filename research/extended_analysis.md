@@ -54,4 +54,4 @@ The VPF's current model fails to address the fundamental challenge: transitionin
 - Game Workers Australia Industry Report 2023
 - CDMN 2022 White Paper on International Models
 
-*Return to [Research Overview](research.md) | [Check the Budget Calculator](calculator.md)*
+*Return to [Research Overview](/research.md/) | [Check the Budget Calculator](calculator.md)*
